@@ -99,7 +99,7 @@
 
   <div class="mb-3">
     <label for="passwd" class="form-label">Password</label>
-    <input type="passwd" class="form-control sfondo4" id="passwd" name="passwd">
+    <input type="password" class="form-control sfondo4" id="passwd" name="passwd">
   </div>
   
 
